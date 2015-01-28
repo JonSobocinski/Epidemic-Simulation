@@ -1,0 +1,2 @@
+Days: 1,Starting Number Of Humans: 0,Starting Number Of Birds: 0,Starting Number Of Birds To Be Infected: 0,Number Of Doctors: 5,Number Of Police: 5,Chance Of Healing: 25,Chance Of Infection: 50,Days Until You Die: 20
+Days: 1,Starting Number Of Humans: 0,Starting Number Of Birds: 0,Starting Number Of Birds To Be Infected: 0,Number Of Doctors: 5,Number Of Police: 5,Chance Of Healing: 25,Chance Of Infection: 50,Days Until You Die: 20
